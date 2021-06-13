@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Sanket Nalage   
 ### 👀 I’m interested in competitive programming .
-### 🌱 I’m currently Working on me Skill development.
-### 💞️ I’m looking to collaborate on New Type of Project.
+### 🌱 I’m currently Working on my Skill development.
+### 💞️ I’m looking to collaborate on New Type of Project(Java ,Android , HTML5, CSS5, javascript, c++, c).
 
 
 
