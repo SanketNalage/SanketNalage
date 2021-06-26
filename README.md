@@ -3,7 +3,8 @@
 - 🌱 I’m currently Working on my Skill development.
 - 💞️ I’m looking to collaborate on New Type of Project(Java ,Android , HTML5, CSS5, javascript, c++, c).
 
-## Feel free to reach me out on:
+<h3 align="left">Feel free to reach me out on:</h3>
+<p align="left">
 
 
 
