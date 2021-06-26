@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Sanket Nalage   
+<h1 align="center">👋 Hi, I’m Sanket Nalage</h1>
 - 👀 I’m interested in competitive programming .
 - 🌱 I’m currently Working on my Skill development.
 - 💞️ I’m looking to collaborate on New Type of Project(Java ,Android , HTML5, CSS5, javascript, c++, c).
