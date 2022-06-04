@@ -1,4 +1,4 @@
-<h1 align="center"> Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">I’m Sanket Nalage</h1>
+<h1 align="center"> Hi,<iframe src="https://giphy.com/embed/4Z4FRLEzoSwivZP1SI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/aesthetic-emmakateacton-emmakateactondesign-4Z4FRLEzoSwivZP1SI">via GIPHY</a></p>I’m Sanket Nalage</h1>
 
 
 - 👀 I’m interested in **Competitive Programming** .
