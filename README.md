@@ -1,2 +1,2 @@
-![Image](https://github.com/user-attachments/assets/ebed9e40-c668-462e-84bd-2ec727ea7ea8)
+![Image](https://github.com/user-attachments/assets/dd386206-f267-493b-9ca7-524c126fd0da)
 ..DevOps Aspirant..
